@@ -7,10 +7,8 @@
     "status": 0,
     "url": "www.baidu.com"
   },
-  "suo": [
-    {
-      "status": 0,
-      "url": "www.baidu.com"
-    }
-  ]
+  "suo1": {
+    "status": 0,
+    "url": "www.baidu.com"
+  }
 }
